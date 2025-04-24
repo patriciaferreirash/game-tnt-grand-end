@@ -36,21 +36,23 @@ O projeto foi desenvolvido pelos alunos do curso de Desenvolvimento de Games da 
 
 ---
 
-##👤 Autores
+## 👤 Autores
 
-[Caren Teva](https://www.linkedin.com/in/caren-t-neves/])    
+[Caren Teva](https://www.linkedin.com/in/caren-t-neves/)
 
-[Douglas Coelho](https://www.linkedin.com/in/douglasoliveiracoelho/])
+[Douglas Coelho](https://www.linkedin.com/in/douglasoliveiracoelho/)
 
-[Gabriel Kazmierczak](www.linkedin.com/in/gabriel-kazmierczak-berça-282004272])
+[Gabriel Kazmierczak](https://www.linkedin.com/in/gabriel-kazmierczak-berça-282004272/)
 
-[Heber Davi Oliveira de Souza](https://www.linkedin.com/in/heber-souza-155b5537br/])
+[Heber Davi Oliveira de Souza](https://www.linkedin.com/in/heber-souza-155b5537br/)
 
-[Julia Botelho](https://www.linkedin.com/in/julia-botelho-84bb87158/])
+[Julia Botelho](https://www.linkedin.com/in/julia-botelho-84bb87158/)
 
-[Lucas Mendes](https://www.linkedin.com/in/lucas-mendes-69a22434b/])
+[Lucas Mendes](https://www.linkedin.com/in/lucas-mendes-69a22434b/)
 
-[Patrícia Ester Ferreira Rodrigues]([www.linkedin.com/in/patriciaferreirash])
+[Patrícia Ester Ferreira Rodrigues](https://www.linkedin.com/in/patriciaferreirash/)
+
+
 
 
 
