@@ -25,10 +25,13 @@ O projeto foi desenvolvido pelos alunos do curso de Desenvolvimento de Games da 
 ## 📷 Prévia
 
 <p align="center">
-  <img src="img/TNT-Grand-End.jpg" alt="Preview 1" width="100%" />
+ 
+  <img src="img/TNT-Grand-End.jpg" alt="Preview 1" width="100%" /> 
+ ---
   <img src="img/a1.png" alt="Preview 2" width="45%" />
-  ---
+ ---
   <img src="img/a3.png" alt="Preview 2" width="45%" />
+ ---
 </p>
 
 ---
