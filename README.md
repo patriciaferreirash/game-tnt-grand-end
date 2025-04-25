@@ -14,13 +14,6 @@ O projeto foi desenvolvido pelos alunos do curso de Desenvolvimento de Games da 
 
 ---
 
-## 🚀 Como Rodar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/game-tnt-grand-end.git
-
----
 
 ## 📷 Prévia
 
